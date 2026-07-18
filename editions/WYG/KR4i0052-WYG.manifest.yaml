@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR4i0052_000-WYG.yaml, hash: 'sha256:bb22a9e1cd6034437e03cc06eb92a449278a68069796df945835b4e07f3199d1'}
   - {seq: 1, filename: KR4i0052_001-WYG.yaml, hash: 'sha256:4144b6391b29a4beabb0ad12a278c798e5a06c82338e8862538c8e462044b13c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0052_000-WYG.markers.yaml, hash: 'sha256:619cc26d2991f7d2d3c1ecb52328e1aef2ad52b5e93ccd12295645b4b230d4ff'}
+  - {seq: 0, role: markers, filename: assets/KR4i0052_000-WYG.markers.yaml, hash: 'sha256:418c1783c53bc8b322975557c37a3ff38f60d249cf661888e447889557477fd5'}
   - {seq: 1, role: markers, filename: assets/KR4i0052_001-WYG.markers.yaml, hash: 'sha256:a85492b806ab948a330470131edcd66b925b5768ea5ac42d78b1c33cca76fc7e'}
 table_of_contents:
 - ref:
@@ -53,4 +53,4 @@ table_of_contents:
   label: 頤山詩話
   type: section
   level: 1
-hash: sha256:4950994c4c342a56483551dc3e25c3f4d863e7203d2f067df710230df21c41b5
+hash: sha256:4e6f43d34eb718bed15d54b970ba99483c2809ef82b27305fa3e21046609faa7
